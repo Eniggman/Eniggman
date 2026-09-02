@@ -2,7 +2,7 @@
 
 # 👋 Привет! Я @Eniggman
 
-### *Software Craftsman • Edge AI Enthusiast • Automation Builder*
+### *Edge AI Enthusiast • Вайбкодер*
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)](https://termux.dev/)
@@ -26,10 +26,8 @@
 Основатель исследовательской лаборатории **[Enigman Termux Lab](https://github.com/Enigman-Termux-lab)** — мобильной экосистемы инструментов и MCP-мостов, превращающей Android-смартфон в автономную ноду для локальных и облачных ИИ-агентов.
 
 * ⚡ **[gemini-spark-mcp-bridge](https://github.com/Enigman-Termux-lab/gemini-spark-mcp-bridge)** — Односторонний FastMCP-мост: удалённое управление Termux и Antigravity CLI из веб-интерфейса Google Gemini Spark.
-* 📱 **Автоматизация и виджеты** — Запуск сессий кодинг-агента и фоновых MCP-серверов в 1 тап с домашнего экрана Android.
-* 📖 **[Подробная статья о Termux и архитектура экосистемы →](https://github.com/Enigman-Termux-lab)**
 
-> 🏛️ Все открытые Termux-репозитории и гайды: **[github.com/Enigman-Termux-lab](https://github.com/Enigman-Termux-lab)**
+> 🏛️ Все открытые Termux-репозитории: **[github.com/Enigman-Termux-lab](https://github.com/Enigman-Termux-lab)**
 
 ---
 
@@ -44,22 +42,11 @@
 
 ---
 
-## 📊 Активность и статистика профиля
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Eniggman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Eniggman's GitHub stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eniggman&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-
-</div>
-
----
-
 ## 📬 Контакты и связь
 
+- ✈️ **Telegram:** [ChoronoNotes](https://t.me/ChoronoNotes/31)
 - 🐙 **GitHub:** [@Eniggman](https://github.com/Eniggman)
 - 🧪 **Termux Lab:** [Enigman-Termux-lab](https://github.com/Enigman-Termux-lab)
-- 💬 Открыт к сотрудничеству, обсуждению идей в Issues и pull request'ам!
 
 <div align="center">
 <sub>Crafted with passion for open source & edge computing.</sub>
