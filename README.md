@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Привет! Я @Enigman
+# 👋 Привет! Я [@Enigman](https://t.me/ChoronoNotes/31)
 
 ### *AI Enthusiast • VibeCoder*
 
@@ -43,8 +43,7 @@
 ## 📬 Контакты и связь
 
 - ✈️ **Telegram:** [ChoronoNotes](https://t.me/ChoronoNotes/31)
-- 🐙 **GitHub:** [@Eniggman](https://github.com/Eniggman)
-- 🧪 **Termux Lab:** [Enigman-Termux-lab](https://github.com/Enigman-Termux-lab)
+
 
 <div align="center">
 <sub>Crafted with passion for open source & edge computing.</sub>
