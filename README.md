@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Привет! Я @Eniggman
+# 👋 Привет! Я @Enigman
 
-### *Edge AI Enthusiast • Вайбкодер*
+### *AI Enthusiast • VibeCoder*
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)](https://termux.dev/)
@@ -14,8 +14,6 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 
 <br/>
-
-Создаю инструменты для автоматизации, утилиты под Windows и развиваю концепцию **Edge AI & Mobile Tooling** — превращения мобильных устройств в автономные вычислительные узлы для ИИ-агентов.
 
 ---
 
