@@ -16,28 +16,30 @@
 
 <br/>
 
----
-
 </div>
 
-## 📱 Termux & Edge AI
+---
 
-Все решения, MCP-мосты и автоматизации под Android собраны в хабе **[Enigman-Termux-lab](https://github.com/Enigman-Termux-lab)**:
+## 🛠 Мои репозитории:
 
-* ⚡ **[gemini-spark-mcp-bridge](https://github.com/Enigman-Termux-lab/gemini-spark-mcp-bridge)** — Односторонний FastMCP-мост: удалённое управление Termux и Antigravity CLI из веб-интерфейса Google Gemini Spark.
-
-> 🔗 Каталог Termux-проектов: **[github.com/Enigman-Termux-lab](https://github.com/Enigman-Termux-lab)**
+1. 📷 **[AeroSnap](https://github.com/Eniggman/AeroSnap)** — Легковесный и быстрый скриншотер фото и захват видео для Windows с удобным управлением горячими клавишами.
+2. 🤖 **[GeminiTelegramBot](https://github.com/Eniggman/GeminiTelegramBot)** — Кастомный многофункциональный Telegram-бот для прямого взаимодействия с нейросетевыми моделями семейства Google Gemini.
+3. 📦 **[ardysamods-guide](https://github.com/Eniggman/ardysamods-guide)** — Специализированная утилита и руководство по выборочной очистке VPK-архивов Dota 2 от тяжелых ассетов, оптимизированная под экосистему Ardysa Mods.
+4. 🎬 **[kinopoisk-imdb-migrate](https://github.com/Eniggman/kinopoisk-imdb-migrate)** — Инструмент для миграции истории оценок и пользовательских списков из Кинопоиска в IMDb.
 
 ---
 
-## 💻 Windows & Desktop Tools
+## 📱 Termux Tools
 
-Прикладные утилиты, боты и инструменты автоматизации:
+Отдельный хаб Termux/Android инструментов и AI-ноды: **[Enigman-Termux-lab](https://github.com/Enigman-Termux-lab)**
 
-- 📷 **[AeroSnap](https://github.com/Eniggman/AeroSnap)** — Легковесный и быстрый скриншотер фото и захват видео для Windows с удобным управлением горячими клавишами.
-- 🤖 **[GeminiTelegramBot](https://github.com/Eniggman/GeminiTelegramBot)** — Кастомный многофункциональный Telegram-бот для прямого взаимодействия с нейросетевыми моделями семейства Google Gemini.
-- 📦 **[ardysamods-guide](https://github.com/Eniggman/ardysamods-guide)** — Специализированная утилита и руководство по выборочной очистке VPK-архивов Dota 2 от тяжелых ассетов, оптимизированная под экосистему Ardysa Mods.
-- 🎬 **[kinopoisk-imdb-migrate](https://github.com/Eniggman/kinopoisk-imdb-migrate)** — Инструмент для бесшовной миграции истории оценок и пользовательских списков из Кинопоиска в IMDb.
+* ⚡ **[gemini-spark-mcp-bridge](https://github.com/Enigman-Termux-lab/gemini-spark-mcp-bridge)** — Односторонний FastMCP-мост: удалённое управление Termux и Antigravity CLI из веб-интерфейса Google Gemini Spark.
+* 🤖 **[codex-termux-remote-control](https://github.com/Enigman-Termux-lab/codex-termux-remote-control)** — Подключение OpenAI Codex CLI в Termux к мобильному приложению ChatGPT Remote Control + виджеты быстрого запуска.
+* 🔘 **[termux-widget-shortcuts](https://github.com/Enigman-Termux-lab/termux-widget-shortcuts)** — Готовые шаблоны и руководство по созданию виджетов рабочего стола Termux:Widget и Android Dynamic Shortcuts.
+* 🔧 **[termux-fix-path](https://github.com/Enigman-Termux-lab/termux-fix-path)** — Инструменты диагностики и исправления путей, shebang, Bionic ELF и библиотек для CLI в Termux.
+* 🛡️ **[opencode-termux-sandbox](https://github.com/Enigman-Termux-lab/opencode-termux-sandbox)** — Изолированная песочница Alpine Linux (PRoot-Distro) для безопасного запуска автономных AI-агентов.
+* 🔔 **[termux-agent-notify](https://github.com/Enigman-Termux-lab/termux-agent-notify)** — Системные Android Push-уведомления и тактильный виброотклик по готовности ответов фоновых агентов.
+* ⚡ **[termux-shutdown-tools](https://github.com/Enigman-Termux-lab/termux-shutdown-tools)** — Чистый экзит фоновых процессов Termux, устранение утечек батареи и управление CPU Wakelock.
 
 ---
 
