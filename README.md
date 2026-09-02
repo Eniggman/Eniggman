@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # 👋 Привет! Я @Eniggman
 
@@ -21,20 +21,19 @@
 
 </div>
 
-## 🧪 Enigman Termux Lab & Skills Index
+## 🧪 Enigman Termux Lab
 
-Основатель открытой лаборатории **[Enigman Termux Lab](https://github.com/Enigman-Termux-lab)** — экосистемы, позволяющей запускать локальные инструменты, автономных ИИ-агентов (Antigravity CLI) и подключать облачные модели (Google Gemini Spark, Claude) к окружению Android через протокол Model Context Protocol (MCP).
+Основатель открытой исследовательской лаборатории **[Enigman Termux Lab](https://github.com/Enigman-Termux-lab)** — экосистемы, позволяющей запускать локальные инструменты, автономных ИИ-агентов (Antigravity CLI) и подключать облачные модели (Google Gemini Spark, Claude) к окружению Android через протокол Model Context Protocol (MCP).
 
-### 🧭 Каталог Termux-скиллов и мостов
+Все Termux-репозитории и инструменты публикуются напрямую в организации:
 
-| Компонент / Скилл | Описание и возможности | Статус / Ссылка |
+| Проект / Инструмент | Описание и возможности | Репозиторий |
 | :--- | :--- | :---: |
 | ⚡ **gemini-spark-mcp-bridge** | **Termux Antigravity Bridge для Gemini Spark**: двусторонний MCP-мост по протоколу FastMCP/Streamable HTTP для прямого выполнения shell-команд, мониторинга и вызова кодинг-агентов из облачного веб-интерфейса Google Gemini. | [![Repo](https://img.shields.io/badge/Repo-gemini--spark--mcp--bridge-8E75B2?style=flat-square&logo=github)](https://github.com/Enigman-Termux-lab/gemini-spark-mcp-bridge) |
-| 🧭 **termux-lab-index** | **Центральный каталог и навигатор лаборатории**: структурированный реестр всех MCP-мостов, операционных регламентов (SOP), виджетов и скиллов с дорожной картой развития. | [![Repo](https://img.shields.io/badge/Repo-termux--lab--index-blue?style=flat-square&logo=github)](https://github.com/Enigman-Termux-lab/termux-lab-index) |
-| 📱 **Termux:Widget & Automation** | Скрипты мгновенного запуска и шорткаты рабочего стола Android: запуск MCP-серверов и сессий Antigravity в один тап без ручного набора команд. | [![Included](https://img.shields.io/badge/Guide-Included%20in%20Index-success?style=flat-square&logo=android)](https://github.com/Enigman-Termux-lab/termux-lab-index#%EF%B8%8F-termuxwidget--android-quick-launch) |
-| 📡 **Termux Hardware & Sensors MCP** | Модуль расширения FastMCP для прямого доступа ИИ-моделей к датчикам устройства (батарея, сеть, геолокация, камера, уведомления) через Termux:API. | [![WIP](https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square)](https://github.com/Enigman-Termux-lab/termux-lab-index#-roadmap) |
+| 📱 **Termux Automation & Widgets** | Скрипты мгновенного запуска и шорткаты рабочего стола Android: запуск MCP-серверов и сессий Antigravity в один тап без ручного набора команд. | [![Included](https://img.shields.io/badge/Project-Bridge%20Widget-success?style=flat-square&logo=android)](https://github.com/Enigman-Termux-lab/gemini-spark-mcp-bridge#sparkmcpsh) |
+| 📡 **Termux Sensors & Hardware MCP** | Модуль расширения FastMCP для прямого доступа ИИ-моделей к датчикам устройства (батарея, сеть, геолокация, камера, уведомления) через Termux:API. | [![WIP](https://img.shields.io/badge/Status-Planned-yellow?style=flat-square)](https://github.com/Enigman-Termux-lab) |
 
-> 🏛️ **Перейти в лабораторию:** [github.com/Enigman-Termux-lab](https://github.com/Enigman-Termux-lab) — здесь собрана вся документация, примеры и архитектурные схемы.
+> 🏛️ **Все репозитории лаборатории:** [github.com/Enigman-Termux-lab](https://github.com/Enigman-Termux-lab)
 
 ---
 
