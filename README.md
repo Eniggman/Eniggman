@@ -20,19 +20,19 @@
 
 </div>
 
-## 🧪 Enigman Termux Lab
+## 📱 Мои Termux-репо
 
-Основатель исследовательской лаборатории **[Enigman Termux Lab](https://github.com/Enigman-Termux-lab)** — мобильной экосистемы инструментов и MCP-мостов, превращающей Android-смартфон в автономную ноду для локальных и облачных ИИ-агентов.
+В организации **[Enigman-Termux-lab](https://github.com/Enigman-Termux-lab)** я просто выкладываю свои репозитории, скрипты и эксперименты под Termux:
 
 * ⚡ **[gemini-spark-mcp-bridge](https://github.com/Enigman-Termux-lab/gemini-spark-mcp-bridge)** — Односторонний FastMCP-мост: удалённое управление Termux и Antigravity CLI из веб-интерфейса Google Gemini Spark.
 
-> 🏛️ Все открытые Termux-репозитории: **[github.com/Enigman-Termux-lab](https://github.com/Enigman-Termux-lab)**
+> 🔗 Все репозитории под Termux: **[github.com/Enigman-Termux-lab](https://github.com/Enigman-Termux-lab)**
 
 ---
 
-## 🛠️ Другие проекты и разработки
+## 🛠️ Другие мои проекты
 
-Помимо мобильных ИИ-исследований, разрабатываю десктопные утилиты и интеграции для решения практических задач:
+Десктопные утилиты и инструменты под Windows:
 
 - 📷 **[AeroSnap](https://github.com/Eniggman/AeroSnap)** — Легковесный и быстрый скриншотер фото и захват видео для Windows с удобным управлением горячими клавишами.
 - 🤖 **[GeminiTelegramBot](https://github.com/Eniggman/GeminiTelegramBot)** — Кастомный многофункциональный Telegram-бот для прямого взаимодействия с нейросетевыми моделями семейства Google Gemini.
