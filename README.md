@@ -29,7 +29,7 @@
 
 | Проект / Инструмент | Описание и возможности | Репозиторий |
 | :--- | :--- | :---: |
-| ⚡ **gemini-spark-mcp-bridge** | **Termux Antigravity Bridge для Gemini Spark**: двусторонний MCP-мост по протоколу FastMCP/Streamable HTTP для прямого выполнения shell-команд, мониторинга и вызова кодинг-агентов из облачного веб-интерфейса Google Gemini. | [![Repo](https://img.shields.io/badge/Repo-gemini--spark--mcp--bridge-8E75B2?style=flat-square&logo=github)](https://github.com/Enigman-Termux-lab/gemini-spark-mcp-bridge) |
+| ⚡ **gemini-spark-mcp-bridge** | **Termux Antigravity Bridge для Gemini Spark**: односторонний MCP-мост (FastMCP/Streamable HTTP), позволяющий ассистенту Gemini Spark удалённо управлять Termux на Android (и CLI на ПК), выполняя shell-команды и запуская кодинг-агентов. | [![Repo](https://img.shields.io/badge/Repo-gemini--spark--mcp--bridge-8E75B2?style=flat-square&logo=github)](https://github.com/Enigman-Termux-lab/gemini-spark-mcp-bridge) |
 | 📱 **Termux Automation & Widgets** | Скрипты мгновенного запуска и шорткаты рабочего стола Android: запуск MCP-серверов и сессий Antigravity в один тап без ручного набора команд. | [![Included](https://img.shields.io/badge/Project-Bridge%20Widget-success?style=flat-square&logo=android)](https://github.com/Enigman-Termux-lab/gemini-spark-mcp-bridge#sparkmcpsh) |
 | 📡 **Termux Sensors & Hardware MCP** | Модуль расширения FastMCP для прямого доступа ИИ-моделей к датчикам устройства (батарея, сеть, геолокация, камера, уведомления) через Termux:API. | [![WIP](https://img.shields.io/badge/Status-Planned-yellow?style=flat-square)](https://github.com/Enigman-Termux-lab) |
 
