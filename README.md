@@ -29,7 +29,7 @@
 
 ## 📱 Termux Tools
 
-Отдельный хаб Termux/Android инструментов и AI-ноды: **[Enigman-Termux-lab](https://github.com/Enigman-Termux-lab)**
+Отдельный хаб Termux инструментов: **[Enigman-Termux-lab](https://github.com/Enigman-Termux-lab)**
 
 * ⚡ **[gemini-spark-mcp-bridge](https://github.com/Enigman-Termux-lab/gemini-spark-mcp-bridge)** — Односторонний FastMCP-мост: удалённое управление Termux и Antigravity CLI из веб-интерфейса Google Gemini Spark.
 * 🤖 **[codex-termux-remote-control](https://github.com/Enigman-Termux-lab/codex-termux-remote-control)** — Подключение OpenAI Codex CLI в Termux к мобильному приложению ChatGPT Remote Control + виджеты быстрого запуска.
