@@ -21,10 +21,10 @@
 
 ## 🛠 Мои репозитории:
 
-1. 📷 **[AeroSnap](https://github.com/Eniggman/AeroSnap)** — Легковесный и быстрый скриншотер фото и захват видео для Windows с удобным управлением горячими клавишами.
-2. 🎬 **[kinopoisk-imdb-migrate](https://github.com/Eniggman/kinopoisk-imdb-migrate)** — Инструмент для миграции истории оценок и пользовательских списков из Кинопоиска в IMDb.
-3.  🤖 **[GeminiTelegramBot](https://github.com/Eniggman/GeminiTelegramBot)** — Кастомный многофункциональный Telegram-бот для прямого взаимодействия с нейросетевыми моделями семейства Google Gemini.
-4. 📦 **[ardysamods-guide](https://github.com/Eniggman/ardysamods-guide)** — Специализированная утилита и руководство по выборочной очистке VPK-архивов Dota 2 от тяжелых ассетов, оптимизированная под экосистему Ardysa Mods.
+1. 📷 **[AeroSnap](https://github.com/Eniggman/AeroSnap)** — Легковесный и быстрый скриншотер фото и видео для Windows
+2. 🎬 **[kinopoisk-imdb-migrate](https://github.com/Eniggman/kinopoisk-imdb-migrate)** — Инструмент для миграции истории оценок из Кинопоиска в IMDb.
+3.  🤖 **[GeminiTelegramBot](https://github.com/Eniggman/GeminiTelegramBot)** — Кастомный многофункциональный Telegram-бот
+4. 📦 **[ardysamods-guide](https://github.com/Eniggman/ardysamods-guide)** — Специализированная утилита и руководство для мод-лаунчер Ardysa Mods Dota 2
 ---
 
 ## 📱 Termux Tools
