@@ -46,7 +46,7 @@
 
 ## 🧠 AI Skills
 
-* ⭕ **[telegram-circle-to-sticker](skills/telegram-circle-to-sticker)** — Преобразование круглых видеосообщений Telegram (кружочков) в WebM VP9 видеостикеры с прозрачной круглой альфа-маской. `#telegram` `#stickers` `#videosticker` `#webm` `#vp9` `#ffmpeg`
+* ⭕ **[telegram-circle-to-sticker](skills/telegram-circle-to-sticker)** — Преобразование круглых видеосообщений Telegram (кружочков) в WebM VP9 видеостикеры с прозрачной круглой альфа-маской.
 
 ---
 
