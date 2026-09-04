@@ -1,0 +1,41 @@
+# Build and repack artifacts
+build_repack_*/
+temp_extract/
+temp_rebuild/
+final_fix/
+filtered/
+source/
+skill_package_stage/
+
+# Large generated archives
+*.vpk
+*.vpk.*
+*.backup_*.vpk
+*.zip
+*.7z
+*.rar
+
+# Packaged Codex/Gemini skill artifacts
+*.skill
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local analysis outputs
+items_game_analysis/
+
+# Local project state and logs
+REPACK_LOG.md
+REPACK_PLAN.md
+memory.md
+*.log
+
+# Windows and editor files
+Thumbs.db
+Desktop.ini
+*.lnk
+.DS_Store
+.vscode/
+.idea/

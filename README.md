@@ -22,9 +22,16 @@
 ## 🛠 Мои репозитории:
 
 1. 📷 **[AeroSnap](https://github.com/Eniggman/AeroSnap)** — Легковесный и быстрый скриншотер фото и видео для Windows
-2. 🎬 **[kinopoisk-imdb-migrate](https://github.com/Eniggman/kinopoisk-imdb-migrate)** — Инструмент для миграции истории оценок из Кинопоиска в IMDb.
-3.  🤖 **[GeminiTelegramBot](https://github.com/Eniggman/GeminiTelegramBot)** — Кастомный многофункциональный Telegram-бот
-4. 📦 **[ardysamods-guide](https://github.com/Eniggman/ardysamods-guide)** — Специализированная утилита и руководство для мод-лаунчер Ardysa Mods Dota 2
+2. 🤖 **[GeminiTelegramBot](https://github.com/Eniggman/GeminiTelegramBot)** — Кастомный многофункциональный Telegram-бот
+
+---
+
+## 🧠 AI Skills
+
+* ⭕ **[telegram-circle-to-sticker](skills/telegram-circle-to-sticker)** — Преобразование круглых видеосообщений Telegram (кружочков) в WebM VP9 видеостикеры с прозрачной круглой альфа-маской.
+* 🎬 **[kinopoisk-imdb-migrate](skills/kinopoisk-imdb-migrate)** — Инструмент и руководство по автоматизированной миграции истории оценок и списков просмотра из Кинопоиска в IMDb.
+* 📦 **[ardysamods-guide](skills/ardysamods-guide)** — Экспертный инструментарий и руководство по работе с мод-лаунчером Ardysa Mods и хирургической оптимизации VPK для Dota 2.
+
 ---
 
 ## 📱 Termux Tools
@@ -41,12 +48,6 @@
 * 🧹 **[termux-cleanup](https://github.com/Enigman-Termux-lab/termux-cleanup)** — Безопасная очистка кэшей apt, npm, pip, pnpm store, логов и временных файлов без риска повреждения окружения.
 * 🔄 **[termux-auto-updater](https://github.com/Enigman-Termux-lab/termux-auto-updater)** — Автоматизированное обновление пакетов и CLI-агентов с защитой shebang и путей по стандарту termux-fix-path.
 * 📱 **[termux-api](https://github.com/Enigman-Termux-lab/termux-api)** — Прямой доступ автономных AI-агентов к аппаратным сенсорам, батарее, буферу обмена и Android API.
-
----
-
-## 🧠 AI Skills
-
-* ⭕ **[telegram-circle-to-sticker](skills/telegram-circle-to-sticker)** — Преобразование круглых видеосообщений Telegram (кружочков) в WebM VP9 видеостикеры с прозрачной круглой альфа-маской.
 
 ---
 
