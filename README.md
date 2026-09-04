@@ -38,6 +38,9 @@
 * 🛡️ **[opencode-termux-sandbox](https://github.com/Enigman-Termux-lab/opencode-termux-sandbox)** — Изолированная песочница Alpine Linux (PRoot-Distro) для безопасного запуска автономных AI-агентов.
 * 🔔 **[termux-agent-notify](https://github.com/Enigman-Termux-lab/termux-agent-notify)** — Системные Android Push-уведомления и тактильный виброотклик по готовности ответов фоновых агентов.
 * ⚡ **[termux-shutdown-tools](https://github.com/Enigman-Termux-lab/termux-shutdown-tools)** — Чистый экзит фоновых процессов Termux, устранение утечек батареи и управление CPU Wakelock.
+* 🧹 **[termux-cleanup](https://github.com/Enigman-Termux-lab/termux-cleanup)** — Безопасная очистка кэшей apt, npm, pip, pnpm store, логов и временных файлов без риска повреждения окружения.
+* 🔄 **[termux-auto-updater](https://github.com/Enigman-Termux-lab/termux-auto-updater)** — Автоматизированное обновление пакетов и CLI-агентов с защитой shebang и путей по стандарту termux-fix-path.
+* 📱 **[termux-api](https://github.com/Enigman-Termux-lab/termux-api)** — Прямой доступ автономных AI-агентов к аппаратным сенсорам, батарее, буферу обмена и Android API.
 
 ---
 
