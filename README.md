@@ -53,7 +53,7 @@
 
 ## 📬 Telegram
 
-- ✈️ **Telegram:** [ChoronoNotes](https://t.me/ChoronoNotes/31)
+- [ChoronoNotes](https://t.me/ChoronoNotes/31)
 
 
 <div align="center">
