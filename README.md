@@ -21,9 +21,8 @@
 
 ## 🛠 Мои репозитории:
 
-1. ☁️ **[gcp-free-server](https://github.com/Eniggman/gcp-free-server)** — Получаем бесплатный сервер от Google Cloud ($0/мес Always Free Tier)
-2. 📷 **[AeroSnap](https://github.com/Eniggman/AeroSnap)** — Легковесный и быстрый скриншотер фото и видео для Windows
-3. 🤖 **[GeminiTelegramBot](https://github.com/Eniggman/GeminiTelegramBot)** — Кастомный многофункциональный Telegram-бот
+1. 📷 **[AeroSnap](https://github.com/Eniggman/AeroSnap)** — Легковесный и быстрый скриншотер фото и видео для Windows
+2. 🤖 **[GeminiTelegramBot](https://github.com/Eniggman/GeminiTelegramBot)** — Кастомный многофункциональный Telegram-бот
 
 ---
 
