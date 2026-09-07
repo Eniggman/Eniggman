@@ -21,13 +21,15 @@
 
 ## 🛠 Мои репозитории:
 
-1. 📷 **[AeroSnap](https://github.com/Eniggman/AeroSnap)** — Легковесный и быстрый скриншотер фото и видео для Windows
-2. 🤖 **[GeminiTelegramBot](https://github.com/Eniggman/GeminiTelegramBot)** — Кастомный многофункциональный Telegram-бот
+1. ☁️ **[gcp-free-server](https://github.com/Eniggman/gcp-free-server)** — Получаем бесплатный сервер от Google Cloud ($0/мес Always Free Tier)
+2. 📷 **[AeroSnap](https://github.com/Eniggman/AeroSnap)** — Легковесный и быстрый скриншотер фото и видео для Windows
+3. 🤖 **[GeminiTelegramBot](https://github.com/Eniggman/GeminiTelegramBot)** — Кастомный многофункциональный Telegram-бот
 
 ---
 
 ## 🧠 AI Skills
 
+* ☁️ **[gcp-free-server](skills/gcp-free-server)** — Получаем бесплатный сервер от Google Cloud. Руководство и скилл по созданию 24/7 сервера в Always Free Tier ($0/мес), 4 ГБ Swap на SSD и веб-дашборда Cockpit.
 * ⭕ **[telegram-circle-to-sticker](skills/telegram-circle-to-sticker)** — Преобразование круглых видеосообщений Telegram (кружочков) в WebM VP9 видеостикеры с прозрачной круглой альфа-маской.
 * 🎬 **[kinopoisk-imdb-migrate](skills/kinopoisk-imdb-migrate)** — Инструмент и руководство по автоматизированной миграции истории оценок и списков просмотра из Кинопоиска в IMDb.
 * 📦 **[ardysamods-guide](skills/ardysamods-guide)** — Экспертный инструментарий и руководство по работе с мод-лаунчером Ardysa Mods и хирургической оптимизации VPK для Dota 2.
