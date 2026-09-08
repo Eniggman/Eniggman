@@ -28,7 +28,7 @@
 
 ## 🧠 AI Skills
 
-* ☁️ **[gcp-free-server](skills/gcp-free-server)** — Получаем бесплатный сервер от Google Cloud. Руководство и скилл по созданию 24/7 сервера в Always Free Tier ($0/мес), 4 ГБ Swap на SSD и веб-дашборда Cockpit.
+* ☁️ **[gcp-free-server](skills/gcp-free-server)** — Получаем бесплатный сервер от Google Cloud. Руководство и скилл по созданию 24/7 сервера за подписку Google AI Pro
 * ⭕ **[telegram-circle-to-sticker](skills/telegram-circle-to-sticker)** — Преобразование круглых видеосообщений Telegram (кружочков) в WebM VP9 видеостикеры с прозрачной круглой альфа-маской.
 * 🎬 **[kinopoisk-imdb-migrate](skills/kinopoisk-imdb-migrate)** — Инструмент и руководство по автоматизированной миграции истории оценок и списков просмотра из Кинопоиска в IMDb.
 * 📦 **[ardysamods-guide](skills/ardysamods-guide)** — Экспертный инструментарий и руководство по работе с мод-лаунчером Ardysa Mods и хирургической оптимизации VPK для Dota 2.
