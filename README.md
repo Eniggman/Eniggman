@@ -29,8 +29,9 @@
 ## 🧠 AI Skills
 
 * ☁️ **[gcp-free-server](skills/gcp-free-server)** — Получаем бесплатный сервер от Google Cloud. Руководство и скилл по созданию 24/7 сервера за подписку Google AI Pro
-* ⭕ **[telegram-circle-to-sticker](skills/telegram-circle-to-sticker)** — Преобразование круглых видеосообщений Telegram (кружочков) в WebM VP9 видеостикеры с прозрачной круглой альфа-маской.
+* 📱 **[termux-agent-bridge](https://github.com/Enigman-Termux-lab/termux-agent-bridge)** ([скилл](skills/termux-agent-bridge)) — Управление вашим Android со средой Termux (Linux) прямо с ПК через любого ИИ-агента (OpenAI Codex, Claude Code, Google Antigravity, Gemini Spark) по протоколу MCP.
 * 🎬 **[kinopoisk-imdb-migrate](skills/kinopoisk-imdb-migrate)** — Инструмент и руководство по автоматизированной миграции истории оценок и списков просмотра из Кинопоиска в IMDb.
+* ⭕ **[telegram-circle-to-sticker](skills/telegram-circle-to-sticker)** — Преобразование круглых видеосообщений Telegram (кружочков) в WebM VP9 видеостикеры с прозрачной круглой альфа-маской.
 * 📦 **[ardysamods-guide](skills/ardysamods-guide)** — Экспертный инструментарий и руководство по работе с мод-лаунчером Ardysa Mods и хирургической оптимизации VPK для Dota 2.
 
 ---
@@ -39,7 +40,7 @@
 
 Отдельный хаб Termux инструментов: **[Enigman-Termux-lab](https://github.com/Enigman-Termux-lab)**
 
-* ⚡ **[gemini-spark-mcp-bridge](https://github.com/Enigman-Termux-lab/gemini-spark-mcp-bridge)** — Односторонний FastMCP-мост: удалённое управление Termux и Antigravity CLI из веб-интерфейса Google Gemini Spark.
+* 🚀 **[termux-agent-bridge](https://github.com/Enigman-Termux-lab/termux-agent-bridge)** — Универсальный FastMCP-шлюз: полное управление Android Termux (Linux) прямо с ПК через любого ИИ-агента (OpenAI Codex, Claude Code, Google Antigravity, Gemini Spark).
 * 🤖 **[codex-termux-remote-control](https://github.com/Enigman-Termux-lab/codex-termux-remote-control)** — Подключение OpenAI Codex CLI в Termux к мобильному приложению ChatGPT Remote Control + виджеты быстрого запуска.
 * 🔘 **[termux-widget-shortcuts](https://github.com/Enigman-Termux-lab/termux-widget-shortcuts)** — Готовые шаблоны и руководство по созданию виджетов рабочего стола Termux:Widget и Android Dynamic Shortcuts.
 * 🔧 **[termux-fix-path](https://github.com/Enigman-Termux-lab/termux-fix-path)** — Инструменты диагностики и исправления путей, shebang, Bionic ELF и библиотек для CLI в Termux.
