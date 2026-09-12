@@ -40,7 +40,6 @@
 
 Отдельный хаб Termux инструментов: **[Enigman-Termux-lab](https://github.com/Enigman-Termux-lab)**
 
-* 🚀 **[termux-agent-bridge](https://github.com/Enigman-Termux-lab/termux-agent-bridge)** — Универсальный FastMCP-шлюз: полное управление Android Termux (Linux) прямо с ПК через любого ИИ-агента (OpenAI Codex, Claude Code, Google Antigravity, Gemini Spark).
 * 🤖 **[codex-termux-remote-control](https://github.com/Enigman-Termux-lab/codex-termux-remote-control)** — Подключение OpenAI Codex CLI в Termux к мобильному приложению ChatGPT Remote Control + виджеты быстрого запуска.
 * 🔘 **[termux-widget-shortcuts](https://github.com/Enigman-Termux-lab/termux-widget-shortcuts)** — Готовые шаблоны и руководство по созданию виджетов рабочего стола Termux:Widget и Android Dynamic Shortcuts.
 * 🔧 **[termux-fix-path](https://github.com/Enigman-Termux-lab/termux-fix-path)** — Инструменты диагностики и исправления путей, shebang, Bionic ELF и библиотек для CLI в Termux.
