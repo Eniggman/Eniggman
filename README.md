@@ -30,7 +30,7 @@
 
 * ☁️ **[gcp-free-server](skills/gcp-free-server)** — Получаем бесплатный сервер от Google Cloud. Руководство и скилл по созданию 24/7 сервера за подписку Google AI Pro
 * 📱 **[termux-agent-bridge](https://github.com/Enigman-Termux-lab/termux-agent-bridge)** — Управление вашим Android со средой Termux (Linux) через любого ИИ-агента по протоколу MCP.
-* 💬 **[telegram-rich-agent-notify](https://github.com/Eniggman/telegram-rich-agent-notify)** — Нативные отчёты в Telegram Rich Messages (Bot API 10.1+) и двусторонний диалог со смартфоном (Human-in-the-Loop) для любого ИИ-агента (Codex, Claude Code, Antigravity, Cursor).
+* 💬 **[telegram-rich-agent-notify](https://github.com/Eniggman/telegram-rich-agent-notify)** — Уведомление от агента в телеграм бот.
 * 🎬 **[kinopoisk-imdb-migrate](skills/kinopoisk-imdb-migrate)** — Инструмент и руководство по автоматизированной миграции истории оценок и списков просмотра из Кинопоиска в IMDb.
 * ⭕ **[telegram-circle-to-sticker](skills/telegram-circle-to-sticker)** — Преобразование круглых видеосообщений Telegram (кружочков) в WebM VP9 видеостикеры с прозрачной круглой альфа-маской.
 * 📦 **[ardysamods-guide](skills/ardysamods-guide)** — Экспертный инструментарий и руководство по работе с мод-лаунчером Ardysa Mods и хирургической оптимизации VPK для Dota 2.
