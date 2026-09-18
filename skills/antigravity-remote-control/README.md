@@ -49,11 +49,11 @@ sequenceDiagram
     Launcher->>CLI: Старт 'agy --remote-control'
     CLI->>Gateway: Регистрация V2 туннеля (WebChannel)
     Gateway-->>CLI: Назначение UUID сессии
-    CLI->>CLI: Запись [remote-control-:uuid-v2] в лог
-    Launcher->>Launcher: Безопасное чтение лога (FileShare.ReadWrite)
     Launcher->>Browser: termux-open-url / Start-Process URL
-    Browser<->>Gateway: Подключение Live Sync
-    Gateway<->>CLI: Двусторонняя репликация стейта (Diff, Term, Thinking, Tools)
+    Browser->>Gateway: Подключение Live Sync
+    Gateway-->>Browser: Канал связи установлен
+    Gateway->>CLI: Двусторонняя репликация стейта
+    CLI-->>Browser: Стриминг (Diff, Term, Thinking, Tools)
     User->>Browser: Управление агентом и подтверждение действий
 ```
 
