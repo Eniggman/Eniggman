@@ -42,6 +42,7 @@
 Отдельный хаб Termux инструментов: **[Enigman-Termux-lab](https://github.com/Enigman-Termux-lab)**
 
 * 🤖 **[codex-termux-remote-control](https://github.com/Enigman-Termux-lab/codex-termux-remote-control)** — Подключение OpenAI Codex CLI в Termux к мобильному приложению ChatGPT Remote Control + виджеты быстрого запуска.
+* 🛰️ **[antigravity-remote-control](skills/antigravity-remote-control)** — Удалённое управление сессиями Antigravity CLI (v1.2.6+) с ПК и смартфона через удобный UI в вашем браузере с автоматическим перехватом сессионного туннеля и поддержкой Termux:Widget.
 * 🔘 **[termux-widget-shortcuts](https://github.com/Enigman-Termux-lab/termux-widget-shortcuts)** — Готовые шаблоны и руководство по созданию виджетов рабочего стола Termux:Widget и Android Dynamic Shortcuts.
 * 🔧 **[termux-fix-path](https://github.com/Enigman-Termux-lab/termux-fix-path)** — Инструменты диагностики и исправления путей, shebang, Bionic ELF и библиотек для CLI в Termux.
 * 🛡️ **[opencode-termux-sandbox](https://github.com/Enigman-Termux-lab/opencode-termux-sandbox)** — Изолированная песочница Alpine Linux (PRoot-Distro) для безопасного запуска автономных AI-агентов.
