@@ -71,47 +71,70 @@ sequenceDiagram
 
 ---
 
-## 🚀 Быстрый старт
+## 🚀 Быстрый старт и ярлыки
 
-### 🪟 Windows
+### 🪟 Windows: Ярлык на Рабочем столе и Windows Terminal
 
-1. **Создание ярлыка на Рабочем столе в один клик:**
-   ```powershell
-   powershell -ExecutionPolicy Bypass -File ".\scripts\create-desktop-shortcut.ps1"
-   ```
-   *Скрипт автоматически найдет `agy.exe`, назначит официальную иконку и положит `Remote Control AGY.lnk` на Рабочий стол.*
+В репозитории есть готовый скрипт, который создаёт нативный ярлык Windows с официальной иконкой `agy.exe`.
 
-2. **Ручной запуск из терминала:**
-   ```powershell
-   powershell -ExecutionPolicy Bypass -File ".\scripts\start-remote-control.ps1"
-   ```
-   *Параметры:*
-   - `-WorkDir "D:\Projects\MyApp"` — выбор папки проекта.
-   - `-AgyArgs "--model gemini-2.5-pro"` — дополнительные флаги CLI.
-   - `-NoBrowser` — не открывать браузер автоматически (только скопировать ссылку).
+#### 1. Создание ярлыка в один клик:
+Запустите скрипт из папки проекта:
+```powershell
+powershell -ExecutionPolicy Bypass -File ".\scripts\create-desktop-shortcut.ps1"
+```
+
+#### 2. Что происходит при клике на созданный ярлык `Remote Control AGY`:
+1. В тихом скрытом режиме (`-WindowStyle Hidden`) запускается лаунчер `start-remote-control.ps1`.
+2. На экране открывается **Windows Terminal (`wt.exe`)** с сессией `agy --remote-control` в рабочей папке (по умолчанию `D:\Coding`).
+3. Лаунчер за ~1 секунду считывает сгенерированный Session UUID из журнала `~/.gemini/antigravity-cli/log/`.
+4. Ссылка копируется в буфер обмена Windows и **автоматически открывается в вашем браузере по умолчанию** (`https://antigravity.google.com/r/<session-id>`).
+5. Терминал остаётся активным перед глазами для синхронной работы (Live Sync).
+
+#### 💡 Назначение горячей клавиши (HotKey):
+1. Нажмите правой кнопкой мыши по созданному ярлыку **Remote Control AGY** на Рабочем столе → выберите **«Свойства»**.
+2. Перейдите на вкладку **«Ярлык»** и кликните в поле **«Быстрый вызов» (Shortcut key)**.
+3. Нажмите комбинацию (например, `Ctrl + Alt + A`) и нажмите **OK**.  
+*Теперь удалённая сессия с автооткрытием в браузере запускается в любое время одной комбинацией клавиш!*
 
 ---
 
-### 📱 Android (Termux)
+### 📱 Android (Termux): Виджет быстрого запуска на домашнем экране
 
-1. **Установка необходимых пакетов:**
-   ```bash
-   pkg update && pkg install termux-api jq grep
-   ```
-   *(Убедитесь, что установлено дополнение [Termux:API](https://github.com/termux/termux-api)).*
+Для Android предусмотрена бесшовная интеграция с **[Termux:Widget](https://github.com/termux/termux-widget)** — запуск сессии и открытие браузера в один тап по экрану смартфона.
 
-2. **Запуск из командной строки:**
-   ```bash
-   chmod +x scripts/start-remote-control.sh
-   ./scripts/start-remote-control.sh
-   ```
-   *Скрипт перехватит ссылку сессии, скопирует в буфер обмена, пришлет системное уведомление и откроет браузер.*
+#### 1. Необходимые компоненты:
+Убедитесь, что установлены приложения из F-Droid (подписанные одним ключом):
+- [Termux](https://f-droid.org/packages/com.termux/)
+- [Termux:API](https://f-droid.org/packages/com.termux.api/)
+- [Termux:Widget](https://f-droid.org/packages/com.termux.widget/)
 
-3. **Установка виджета Termux:Widget (Запуск в 1 тап):**
-   ```bash
-   ./scripts/start-remote-control.sh --install-widget
-   ```
-   *Добавьте виджет `Termux:Widget` на домашний экран Android и запускайте управление в одно касание!*
+В терминале Termux установите зависимости:
+```bash
+pkg update && pkg install termux-api jq grep -y
+```
+
+#### 2. Генерация скрипта виджета в один клик:
+Выполните команду:
+```bash
+chmod +x scripts/start-remote-control.sh
+./scripts/start-remote-control.sh --install-widget
+```
+*Скрипт автоматически создаст исполняемый лаунчер `~/.shortcuts/Antigravity-Remote.sh` с правильными правами доступа.*
+
+#### 3. Добавление виджета на рабочий стол Android:
+1. Выйдите на домашний экран смартфона.
+2. Зажмите палец на пустом месте экрана → откройте меню **«Виджеты» (Widgets)**.
+3. Прокрутите до раздела **Termux:Widget** и выберите элемент **«Termux shortcut»** (одиночная иконка) или **«Termux:Widget»** (панель списка).
+4. В появившемся списке скриптов выберите **`Antigravity-Remote.sh`**.
+5. Ярлык появится на домашнем экране!
+
+#### 4. Как это работает в Android:
+* Нажимаете на иконку на рабочем столе смартфона:
+  1. В Termux мгновенно запускается сессия `agy --remote-control`.
+  2. Скрипт перехватывает ссылку, копирует её в системный буфер Android (`termux-clipboard-set`).
+  3. Отправляет виброотклик и push-уведомление в шторку уведомлений Android.
+  4. **Автоматически открывает мобильный браузер (`termux-open-url`)** с готовым веб-интерфейсом Live Sync!
+
 
 ---
 
