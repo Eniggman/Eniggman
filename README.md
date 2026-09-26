@@ -23,7 +23,6 @@
 
 1. 📷 **[AeroSnap](https://github.com/Eniggman/AeroSnap)** — Легковесный и быстрый скриншотер фото и видео для Windows
 2. 🤖 **[GeminiTelegramBot](https://github.com/Eniggman/GeminiTelegramBot)** — Кастомный многофункциональный Telegram-бот
-3. 🎮 **[dota-event-calc](https://github.com/Eniggman/dota-event-calc)** — Калькулятор винрейта и эффективности фарма ивента в Dota 2 по статистике аккаунта
 
 ---
 
@@ -35,6 +34,7 @@
 * 🎬 **[kinopoisk-imdb-migrate](https://github.com/Eniggman/kinopoisk-imdb-migrate)** — Инструмент и руководство по автоматизированной миграции истории оценок и списков просмотра из Кинопоиска в IMDb.
 * ⭕ **[telegram-circle-to-sticker](https://github.com/Eniggman/telegram-circle-to-sticker)** — Преобразование круглых видеосообщений Telegram (кружочков) в WebM VP9 видеостикеры с прозрачной круглой альфа-маской.
 * 📦 **[ardysamods-guide](https://github.com/Eniggman/ardysamods-guide)** — Экспертный инструментарий и руководство по работе с мод-лаунчером Ardysa Mods и хирургической оптимизации VPK для Dota 2.
+* 🎮 **[dota-event-calc](https://github.com/Eniggman/dota-event-calc)** — Калькулятор винрейта и эффективности фарма ивента в Dota 2 по статистике аккаунта (OpenDota / STRATZ API).
 
 ---
 
