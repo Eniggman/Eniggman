@@ -38,20 +38,13 @@
 
 ---
 
-## 📱 Termux Tools
+## 📱 [Enigman-Termux-lab](https://github.com/Enigman-Termux-lab)
 
-Отдельный хаб Termux инструментов: **[Enigman-Termux-lab](https://github.com/Enigman-Termux-lab)**
-
-* 🤖 **[codex-termux-remote-control](https://github.com/Enigman-Termux-lab/codex-termux-remote-control)** — Подключение OpenAI Codex CLI в Termux к мобильному приложению ChatGPT Remote Control + виджеты быстрого запуска.
-* 🛰️ **[antigravity-remote-control](https://github.com/Enigman-Termux-lab/antigravity-remote-control)** — Удалённое управление сессиями Antigravity CLI (v1.2.6+) с ПК и смартфона через удобный UI в вашем браузере с автоматическим перехватом сессионного туннеля и поддержкой Termux:Widget.
-* 🔘 **[termux-widget-shortcuts](https://github.com/Enigman-Termux-lab/termux-widget-shortcuts)** — Готовые шаблоны и руководство по созданию виджетов рабочего стола Termux:Widget и Android Dynamic Shortcuts.
-* 🔧 **[termux-fix-path](https://github.com/Enigman-Termux-lab/termux-fix-path)** — Инструменты диагностики и исправления путей, shebang, Bionic ELF и библиотек для CLI в Termux.
-* 🛡️ **[opencode-termux-sandbox](https://github.com/Enigman-Termux-lab/opencode-termux-sandbox)** — Изолированная песочница Alpine Linux (PRoot-Distro) для безопасного запуска автономных AI-агентов.
-* 🔔 **[termux-agent-notify](https://github.com/Enigman-Termux-lab/termux-agent-notify)** — Системные Android Push-уведомления и тактильный виброотклик по готовности ответов фоновых агентов.
-* ⚡ **[termux-shutdown-tools](https://github.com/Enigman-Termux-lab/termux-shutdown-tools)** — Чистый экзит фоновых процессов Termux, устранение утечек батареи и управление CPU Wakelock.
-* 🧹 **[termux-cleanup](https://github.com/Enigman-Termux-lab/termux-cleanup)** — Безопасная очистка кэшей apt, npm, pip, pnpm store, логов и временных файлов без риска повреждения окружения.
-* 🔄 **[termux-auto-updater](https://github.com/Enigman-Termux-lab/termux-auto-updater)** — Автоматизированное обновление пакетов и CLI-агентов с защитой shebang и путей по стандарту termux-fix-path.
-* 📱 **[termux-api](https://github.com/Enigman-Termux-lab/termux-api)** — Прямой доступ автономных AI-агентов к аппаратным сенсорам, батарее, буферу обмена и Android API.
+> **Карманный персональный компьютер под управлением ИИ.**
+> 
+> Лаборатория инструментов, превращающая обычный Android-смартфон в полноценную рабочую станцию Linux (Termux). Вместо заучивания сложных команд терминала — вы просто общаетесь с автономными ИИ-агентами на естественном языке, а они настраивают окружение, запускают скрипты и автоматизируют систему.
+> 
+> 🔗 **Все проекты и исходники:** [github.com/Enigman-Termux-lab](https://github.com/Enigman-Termux-lab)
 
 ---
 
