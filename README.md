@@ -57,3 +57,9 @@
 <div align="center">
 <sub>Crafted with passion for open source & edge computing.</sub>
 </div>
+
+---
+
+## English summary
+
+Hi, I'm Enigman: an AI enthusiast and vibe coder working mostly with Android/Termux, Python and Windows, together with AI coding agents such as OpenAI Codex and Antigravity CLI. My repositories include AeroSnap (a Windows screenshot and screen recorder), a Google Gemini Telegram bot, and a set of AI agent skills: a free 24/7 Google Cloud server guide, Telegram notifications for AI agents, Circle to Search on Android via ADB, Kinopoisk-to-IMDb migration, Telegram video stickers and Dota 2 tools. In the Enigman Termux Lab organization I build tools that turn an Android phone into a Linux workstation driven by AI agents.
