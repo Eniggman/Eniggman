@@ -22,14 +22,14 @@
 ## 🛠 Мои репозитории:
 
 1. 📷 **[AeroSnap](https://github.com/Eniggman/AeroSnap)** — Легковесный и быстрый скриншотер фото и видео для Windows
-2. ▶️ **[The-Best-YT-Morphe](https://github.com/Eniggman/The-Best-YT-Morphe)** — Обзор и настройка лучшего клона Ютуб, под названием YT Morphe
-3. 🤖 **[GeminiTelegramBot](https://github.com/Eniggman/GeminiTelegramBot)** — Кастомный многофункциональный Telegram-бот
+2. 🤖 **[GeminiTelegramBot](https://github.com/Eniggman/GeminiTelegramBot)** — Кастомный многофункциональный Telegram-бот
 
 ---
 
 ## 🧠 AI Skills
 
 * ☁️ **[gcp-free-server](https://github.com/Eniggman/gcp-free-server)** — Получаем бесплатный сервер от Google Cloud. Руководство и скилл по созданию 24/7 сервера за подписку Google AI Pro
+* ▶️ **[The-Best-YT-Morphe](https://github.com/Eniggman/The-Best-YT-Morphe)** — Обзор и настройка лучшего клона Ютуб, под названием YT Morphe
 * 📱 **[termux-agent-bridge](https://github.com/Enigman-Termux-lab/termux-agent-bridge)** — Управление вашим Android со средой Termux (Linux) через любого ИИ-агента по протоколу MCP.
 * 💬 **[telegram-rich-agent-notify](https://github.com/Eniggman/telegram-rich-agent-notify)** — Уведомление от агента в телеграм бот.
 * 🔍 **[Circle-to-search-android](https://github.com/Eniggman/circle-to-search)** — Возвращение полноценного ассистента от Google. Активация нативного Circle to Search на смартфонах Android и HyperOS через ADB.
