@@ -28,26 +28,25 @@
 
 ## 🧠 AI Skills
 
-<p align="center">
-  <a href="https://github.com/Eniggman/telegram-grok-wake">
-    <img src="https://raw.githubusercontent.com/Eniggman/telegram-grok-wake/main/banner.png" alt="Grok Bot и Telegram" width="720">
-  </a>
-</p>
-
-<p align="center">
-  #Telegram #Grok #GrokBot #xAI #Serverless #Webhook #AI
-</p>
-
-* 🤝 **[telegram-grok-wake](https://github.com/Eniggman/telegram-grok-wake)** — Telegram → Serverless → рутина Grok Bot: писать боту можно, даже если компьютер выключен.
-
 * ☁️ **[gcp-free-server](https://github.com/Eniggman/gcp-free-server)** — Получаем бесплатный сервер от Google Cloud. Руководство и скилл по созданию 24/7 сервера за подписку Google AI Pro
+  
 * ▶️ **[The-Best-YT-Morphe](https://github.com/Eniggman/The-Best-YT-Morphe)** — Обзор и настройка лучшего клона Ютуб, под названием YT Morphe
+
+*  🤝 **[telegram-grok-wake](https://github.com/Eniggman/telegram-grok-wake)** — Используйте GrokBot в Telegram через Serverless
+ 
 * 📱 **[termux-agent-bridge](https://github.com/Enigman-Termux-lab/termux-agent-bridge)** — Управление вашим Android со средой Termux (Linux) через любого ИИ-агента по протоколу MCP.
+  
 * 💬 **[telegram-rich-agent-notify](https://github.com/Eniggman/telegram-rich-agent-notify)** — Уведомление от агента в телеграм бот.
+  
 * 🔍 **[Circle-to-search-android](https://github.com/Eniggman/circle-to-search)** — Возвращение полноценного ассистента от Google. Активация нативного Circle to Search на смартфонах Android и HyperOS через ADB.
+
 * 🎬 **[kinopoisk-imdb-migrate](https://github.com/Eniggman/kinopoisk-imdb-migrate)** — Инструмент и руководство по автоматизированной миграции истории оценок и списков просмотра из Кинопоиска в IMDb.
-* ⭕ **[telegram-circle-to-sticker](https://github.com/Eniggman/telegram-circle-to-sticker)** — Преобразование круглых видеосообщений Telegram (кружочков) в WebM VP9 видеостикеры с прозрачной круглой альфа-маской.
+
+* ⭕ **[telegram-circle-to-sticker]
+  (https://github.com/Eniggman/telegram-circle-to-sticker)** — Преобразование круглых видеосообщений Telegram (кружочков) в WebM VP9 видеостикеры с прозрачной круглой альфа-маской.
+
 * 📦 **[ardysamods-guide](https://github.com/Eniggman/ardysamods-guide)** — Экспертный инструментарий и руководство по работе с мод-лаунчером Ardysa Mods и хирургической оптимизации VPK для Dota 2.
+
 * 🎮 **[dota-event-calc](https://github.com/Eniggman/dota-event-calc)** — Калькулятор винрейта и эффективности фарма ивента в Dota 2 по статистике аккаунта (OpenDota / STRATZ API).
 
 ---
